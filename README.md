@@ -18,7 +18,7 @@ or
 ```bash
 python3 -m pip install requests beautifulsoup4
 ```
-And then you can `gui.py` or `main.py`
+And then you can run `gui.py` or `main.py`
 
 ## 📃 To Do
 - Finding URLs automatically by name or IMDb ID
