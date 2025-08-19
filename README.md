@@ -5,7 +5,7 @@ Scraping DonyayeSerial DataCenters to create `.strm` file
 DS2STRM Scraps DataCenters of [donyayeserial.com](https://donyayeserial.com) to create `.strm.` file. Then you can import these files to Streaming softwares (e.g. `VLC Player`, `MX Player`, `KM Player`, `Kodi`, `Infuse`, etc.) 💪🏼
 
 ## 🤩 How to use?
-To use DS2STRM Script you should find any URL of the series (e.g. [Rick and Morty](https://dls5.iran-gamecenter-host.com/DonyayeSerial/series/Rick.and.Morty/Soft.Sub/S01/720p.BluRay/)). Then open [CLI]() or [GUI]() edition of Script (Graphical is recommended) and enter the url. After Analyzing a directory/folder will be created next to your script file (e.g. `rick-and-morty/`). You can import this directory/folder to any Streaming software 🎥
+To use DS2STRM Script you should find any URL of the series (e.g. [Rick and Morty](https://dls5.iran-gamecenter-host.com/DonyayeSerial/series/Rick.and.Morty/Soft.Sub/S01/720p.BluRay/)). Then open [CLI](https://github.com/mohammadali-arjomand/donyayeserial-to-strm/releases/download/v1.0.0/CLI.exe) or [GUI](https://github.com/mohammadali-arjomand/donyayeserial-to-strm/releases/download/v1.0.0/GUI.exe) edition of Script (Graphical is recommended) and enter the url. After Analyzing a directory/folder will be created next to your script file (e.g. `rick-and-morty/`). You can import this directory/folder to any Streaming software 🎥
 
 ## 🔨 How to run source?
 To run source you should first download and install [Python3](https://www.python.org/downloads/).
