@@ -25,7 +25,7 @@ And then you can run `gui.py` or `main.py`
 - Creating easier options to choose quality
 - Improve Error handling (especially in GUI)
 
-# 🤝🏼 Contribue
+# 🤝🏼 Contribute
 Intrested in DS2STRM? [Create an Issue](https://github.com/mohammadali-arjomand/donyayeserial-to-strm/issues/new) and explain your ideas! 🚀
 
 # ⚖️ License
